@@ -51,6 +51,12 @@ Tech_Fix/
 │── uploads/
 │── README.md
 
+## 📸 Screenshots
+![Home](Screenshot 2026-02-22 150727.png)
+![Login](Screenshot 2026-02-22 150740.png)
+![Dashboard](Screenshot 2026-02-22 150823.png)
+![Service](Screenshot 2026-02-22 150926.png)
+![Users](Screenshot 2026-02-22 150957.png)
 
 ⚙️ Installation & Setup
 Install XAMPP
