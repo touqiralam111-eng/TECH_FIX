@@ -1,7 +1,5 @@
 # Tech_Fix.
 💻 Tech_Fix
-
-# 💻 LAPTOP-FIXPRO  
 > A Full Stack Laptop Service Management System built using PHP & MySQL.
 
 📌 Project Overview
